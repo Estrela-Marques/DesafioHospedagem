@@ -1,0 +1,15 @@
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/bin/Debug/net7.0/DesafioHospedagem
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/bin/Debug/net7.0/DesafioHospedagem.deps.json
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/bin/Debug/net7.0/DesafioHospedagem.runtimeconfig.json
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/bin/Debug/net7.0/DesafioHospedagem.dll
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/bin/Debug/net7.0/DesafioHospedagem.pdb
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.csproj.AssemblyReference.cache
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.AssemblyInfoInputs.cache
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.AssemblyInfo.cs
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.csproj.CoreCompileInputs.cache
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.dll
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/refint/DesafioHospedagem.dll
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.pdb
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/DesafioHospedagem.genruntimeconfig.cache
+/home/estela/estudos/Estudos-C#/DesafioHospedagem/obj/Debug/net7.0/ref/DesafioHospedagem.dll
